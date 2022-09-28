@@ -1,6 +1,5 @@
-# **Multiplayer_FizzBuzz (version 1.0)
+# *Multiplayer_FizzBuzz (version 1.0)*
 Popular game for children - now available for 2 players.
-
 Simple console game. 
 
 ## Rules:
