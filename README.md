@@ -1,2 +1,7 @@
 # Multiplayer_FizzBuzz
-Popular game for child - now available for 2 players.
+Popular game for children - now available for 2 players.
+
+Simple console game. 
+
+# Rules:
+
