@@ -16,7 +16,12 @@ public class Main {
 
         System.out.print("Please choose your number: ");
         int userChoice = input.nextInt();
-        
+        System.out.print("Please choose your number: ");
+        System.out.print("Please choose your number: ");
+        System.out.print("Please choose your number: ");
+        System.out.print("Please choose your number: ");
+        System.out.print("Please choose your number: ");
+            
         
         if (userChoice<100 || userChoice>1000)
         {
